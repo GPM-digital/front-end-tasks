@@ -11,7 +11,7 @@ This component needs to accept a `theme` property with the following structure:
 }
 ```
 
-The background value will be used for the background. The Accent value is used for the action button. The foreground colour of both container and button should change based on their background values to maintain readability.
+The _background_ value will be used for the background. The _accent_ value is used for the action button. The foreground colour of both container and button should change based on their background values to maintain readability.
 
 The colour values have already been defined in the `tailwind.config.js` file.
 

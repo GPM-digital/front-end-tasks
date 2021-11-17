@@ -3,7 +3,7 @@ import 'twin.macro';
 
 export default function Index() {
   return (
-    <div tw="p-4">
+    <div tw="p-4 max-w-md mx-auto md:p-12">
       <h2 tw="text-xl font-bold mb-2">Containers</h2>
       <LinkList
         items={[

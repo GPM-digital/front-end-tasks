@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Pathology",
+    "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>",
+    "theme": {
+      "background": "pastel_aqua",
+      "accent": "raspberry"
+    },
+    "image": {
+      "url": "strap/image_1.jpg"
+    },
+    "actions": [
+      {
+        "url": "/",
+        "name": "watch video"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Identification of targets",
+    "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>",
+    "layout": "text-image",
+    "theme": {
+      "background": "white",
+      "accent": "raspberry"
+    },
+    "image": {
+      "url": "strap/image_2.jpg"
+    },
+    "actions": [
+      {
+        "url": "/",
+        "name": "download pdf"
+      }
+    ]
+  }
+]

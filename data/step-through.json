@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Idea",
+    "image": {
+      "url": "step-through/step_1.jpg"
+    },
+    "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>",
+    "actions": [
+      {
+        "url": "/file.pdf",
+        "name": "Download"
+      },
+      {
+        "url": "https://google.com",
+        "name": "Link"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Lab",
+    "image": {
+      "url": "step-through/step_2.jpg"
+    },
+    "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>",
+    "actions": [
+      {
+        "url": "/file.pdf",
+        "name": "Download"
+      },
+      {
+        "url": "https://google.com",
+        "name": "Link"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pre-clinical",
+    "image": {
+      "url": "step-through/step_3.jpg"
+    },
+    "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>",
+    "actions": [
+      {
+        "url": "/file.pdf",
+        "name": "Download"
+      },
+      {
+        "url": "https://google.com",
+        "name": "Link"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Clinical",
+    "image": {
+      "url": "step-through/step_4.jpg"
+    },
+    "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>",
+    "actions": [
+      {
+        "url": "/file.pdf",
+        "name": "Download"
+      },
+      {
+        "url": "https://google.com",
+        "name": "Link"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Regulatory",
+    "image": {
+      "url": "step-through/step_5.jpg"
+    },
+    "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>",
+    "actions": [
+      {
+        "url": "/file.pdf",
+        "name": "Download"
+      },
+      {
+        "url": "https://google.com",
+        "name": "Link"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Approval",
+    "image": {
+      "url": "step-through/step_6.jpg"
+    },
+    "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>",
+    "actions": [
+      {
+        "url": "/file.pdf",
+        "name": "Download"
+      },
+      {
+        "url": "https://google.com",
+        "name": "Link"
+      }
+    ]
+  }
+]

@@ -14,6 +14,6 @@ These assigments will help us learn:
 
 ## How to apply
 
-1. Clone this repository
+1. Clone or fork this repository
 2. Complete the task that you've been asked to complete
-3. Send us a zip file with your work (better if it's a link to a cloud download)
+3. Send us a pull request or a link to your fork
